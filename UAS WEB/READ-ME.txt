@@ -1,0 +1,29 @@
+Nama : Cavin Buana Samuel
+Nim  :2255201143
+
+
+deskripsi web :
+
+web ini dibangun dengan komponen Html,css,javascript dan bostrapp versi 5
+
+referensi yang saya pakai adalah  tugas-tugas sebelumnya, youtube,free css,dan open ai
+
+di setiap menu pada navbar saya akan mengarah ke halaman yang berbeda.di setiap halaman memberikan informasi yang berbeda juga
+web ini memberikan infomasi mengenai bioskop
+
+
+-pada halaman index menampilkan berita seputar bioskop dan melakukan login 
+
+-pada halaman tentang saya hanya menampilkan sedikit deskripsi saja tentang bioskop yang sudah dibangun di banyak daerah
+
+-pada halaman service menampilkan pelayanan yang di dapat dan  ada juga pendapat dari pengunjung
+
+-pada halaman daftar film yaitu menampilkan macam macam film bioskop serta langkah-langkah pemesanan(transaksi)
+
+-pada halaman pages tedapat juga booking
+
+-pada halaman contact menampilkan contac serta maps bioskop
+
+
+
+
